@@ -9,7 +9,7 @@ I'm Toan Nguyen Quoc, Hello World 👋
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&ogoColor=white)
 
 ### Technologies
@@ -23,10 +23,11 @@ I'm Toan Nguyen Quoc, Hello World 👋
 ![MySQL](https://img.shields.io/badge/mysql%20-%23007ACC.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Connect with me
-[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
+[<img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL"/>][linkedin]
 [<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>][facebook]
 
 <br />
 <br />
 
-[facebook]: [https://www.facebook.com/profile.php?id=100012907031919](https://www.facebook.com/toannguyen.197/)
+[linkedin]: https://www.linkedin.com/in/toannguyen197
+[facebook]: https://www.facebook.com/toannguyen.197
