@@ -9,6 +9,7 @@ I'm Toan Nguyen Quoc, Hello World 👋
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&ogoColor=white)
 
 ### Technologies
@@ -28,7 +29,4 @@ I'm Toan Nguyen Quoc, Hello World 👋
 <br />
 <br />
 
-[instagram]: https://www.instagram.com/_tuananh_1811/
-[facebook]: https://www.facebook.com/profile.php?id=100012907031919
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phantuananh18&layout=compact)
+[facebook]: [https://www.facebook.com/profile.php?id=100012907031919](https://www.facebook.com/toannguyen.197/)
